@@ -1,0 +1,17 @@
+{
+  "name": "alfred-browser-with-profile",
+  "version": "0.1.0",
+  "description": "Launch a browser with the named profile using alfred",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alfred"
+  ],
+  "author": "Zee Spencer <zee@zinc.coop>",
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^0.9.1"
+  }
+}
